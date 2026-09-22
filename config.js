@@ -8,6 +8,6 @@
 //    uniquement la clé publique ("publishable" ou "anon").
 // =====================================================================
 window.CRM_CONFIG = {
-  supabaseUrl: "",   // ex. "https://abcdefgh.supabase.co"
-  supabaseKey: ""    // ex. "sb_publishable_..." ou "eyJhbGciOi..."
+  supabaseUrl: "https://zuhaaieqnespgrziwgvl.supabase.co",   // ex. "https://abcdefgh.supabase.co"
+  supabaseKey: "sb_publishable_UVVTbaEo6BaCFwm0umbxGw_8zO-3ioT"    // ex. "sb_publishable_..." ou "eyJhbGciOi..."
 };
